@@ -5,6 +5,7 @@
 -   💡 I’m learning more about web technologies.
 -   🥅 2023 goals: to improve my skills and evolve as a **Web Developer**
 -   [知乎](https://www.zhihu.com/people/zhe-xu-lu)｜[掘金](https://juejin.cn/user/219558057617374)
+-   How to reach me chuxulu.volary@gmail.com
 
 <div style="margin: 40px 0; text-align: right;" align="right">
 <em style="font-size: 30px">"Creativy is just connecting things."</em>
