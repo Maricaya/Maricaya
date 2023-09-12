@@ -15,7 +15,7 @@
 
 <h2 style="border: none !important">Me & My Repositories</h2>
 
-<div><a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Maricaya&show_icons=true&hide_border=true&theme=darkc" /></a></div>
+<!-- <div><a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Maricaya&show_icons=true&hide_border=true&theme=darkc" /></a></div> -->
 
 <div><a href="#"><img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maricaya&layout=compact&theme=dark&hide_border=true" /></a></div>
 
