@@ -1,4 +1,4 @@
-<h1 style="border: none !important">Hello, I'm <strong>Lu</strong> ! 👋 </h1>
+<h1 style="border: none !important">Hello, I'm <strong>Lucille</strong> ! 👋 </h1>
 <br /><br />
 
 -   🔭 Currently working on React and Node.js projects
