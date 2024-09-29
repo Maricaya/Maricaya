@@ -1,9 +1,9 @@
 <h1 style="border: none !important">Hello, I'm <strong>Lucille</strong> ! 👋 </h1>
 <br /><br />
 
--   🔭 Currently working on React and Node.js projects
--   💡 I’m learning more about web technologies.
--   🥅 2023 goals: to improve my skills and evolve as a **Web Developer**
+-   🔭 Previously worked as a front-end engineer, now focusing on learning C++ with the goal of transitioning into computer systems, particularly distributed systems and parallel computing
+-   💡 Looking for ways to bridge the gap between software development and system-level programming
+-   🥅 2024 goals: to enhance my skills and pursue a career in computer systems
 -   [知乎](https://www.zhihu.com/people/zhe-xu-lu)｜[掘金](https://juejin.cn/user/219558057617374)
 -   How to reach me chuxulu.volary@gmail.com
 
