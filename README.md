@@ -2,7 +2,7 @@
 <br /><br />
 https://maricaya.github.io/
 
--   🔭 Previously worked as a software engineer, now focusing on learning C++ with the goal of transitioning into computer systems, particularly distributed systems and parallel computing
+-   🔭 Previously worked as a software engineer, now focusing on learning C++ with the goal of transitioning into computer systems
 -   💡 Looking for ways to bridge the gap between software development and system-level programming
 -   🥅 2024 goals: to enhance my skills and pursue a career in computer systems
 -   [知乎](https://www.zhihu.com/people/zhe-xu-lu)｜[掘金](https://juejin.cn/user/219558057617374)
